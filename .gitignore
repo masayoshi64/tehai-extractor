@@ -1,0 +1,5 @@
+image
+data
+.vscode
+.venv
+*.ipynb
